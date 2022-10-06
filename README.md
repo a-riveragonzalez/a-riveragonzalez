@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there, I'm Arely 👋
+
+:computer: I'm a junior full stack web developer
+
+:coffee: I’m looking to collaborate on fun and useful applications with an intuitive, user friendly interface
+
+:space_invader: Fun fact: I can solve a Rubiks Cube in under 40 seconds
+
+:books: Read about what else I'm up to on [my site](https://a-riveragonzalez.github.io/a-riveragonzalez-portfolio/)
+
 
 <!--
 **a-riveragonzalez/a-riveragonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
