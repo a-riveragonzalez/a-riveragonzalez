@@ -2,7 +2,7 @@
 
 :computer: I'm a junior full stack web developer
 
-:coffee: I’m looking to collaborate on fun and useful applications with an intuitive, user friendly interface
+:coffee: I’m looking to collaborate on fun and useful applications with intuitive, user friendly interfaces
 
 :space_invader: Fun fact: I can solve a Rubiks Cube in under 40 seconds
 
