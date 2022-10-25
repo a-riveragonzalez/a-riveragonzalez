@@ -1,6 +1,6 @@
 ### Hello there, I'm Arely 👋
 
-:computer: I'm a junior full stack web developer
+:computer: I'm a Full Stack Web Developer
 
 :coffee: I’m looking to collaborate on fun and useful applications with intuitive, user friendly interfaces
 
