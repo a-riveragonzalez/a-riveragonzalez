@@ -6,7 +6,7 @@
 
 :space_invader: Fun fact: I can solve a Rubiks Cube in under 40 seconds
 
-:books: Read about what else I'm up to on [my site](https://a-riveragonzalez.github.io/a-riveragonzalez-portfolio/)
+:books: Read about what else I'm up to on [my site](https://a-riveragonzalez.github.io/portfolio/)
 
 
 <!--
