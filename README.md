@@ -4,6 +4,8 @@
 
 :coffee: I’m looking to collaborate on fun and useful applications with intuitive, user friendly interfaces
 
+🌱 I’m currently learning TypeScript and Socket.io
+
 :space_invader: Fun fact: I can solve a Rubiks Cube in under 40 seconds
 
 :books: Read about what else I'm up to on [my site](https://a-riveragonzalez.github.io/portfolio/)
