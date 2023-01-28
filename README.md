@@ -6,13 +6,14 @@
 
 🌱 I’m currently learning TypeScript and Socket.io
 
-:space_invader: Fun fact: I can solve a Rubiks Cube in under 40 seconds
-
 :books: Check out my work on [my site](https://a-riveragonzalez.github.io/portfolio/)
 
 
 <!--
 **a-riveragonzalez/a-riveragonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+:space_invader: Fun fact: I can solve a Rubiks Cube in under 40 seconds
+
 
 Here are some ideas to get you started:
 
