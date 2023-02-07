@@ -3,7 +3,7 @@
 :computer: I'm a Full Stack Web Developer working primarily in the MERN stack<br />
 :coffee: I’m looking to collaborate on fun and useful applications with intuitive, user friendly interfaces <br />
 🌱 I’m currently learning TypeScript and Socket.io <br />
-:books: Check out my work on [my site](https://a-riveragonzalez.github.io/portfolio/)
+:books: Check out my work on [my site](https://a-riveragonzalez.github.io/portfolio/)!
 ### Languages & Tools
 ![javascript](https://img.shields.io/badge/-JavaScript-545454?style=plastic&logo=javascript)
 ![react](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
