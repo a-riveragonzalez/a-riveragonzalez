@@ -12,8 +12,10 @@
 <br />
 ![node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=plastic&logo=node.js)
 ![express](https://img.shields.io/badge/-Express-darkgrey?style=plastic&logo=express)
+![next.js](https://img.shields.io/badge/-Next.js-blue?style=plastic&logo=next.js)
 ![mongodb](https://img.shields.io/badge/-MongoDB-lightgreen?style=plastic&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-MySQL-lightblue?style=plastic&logo=mysql)
+![tailwind](https://img.shields.io/badge/-TailwindCSS-blue?style=plastic&logo=tailwindcss)
 ![git](https://img.shields.io/badge/-Git-FEE68E?style=plastic&logo=git)
 
 
