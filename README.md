@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer based in Los Angeles, CA. I specialize in bui
 - **Cloud & Database Expertise:** Utilizing AWS services and PostgreSQL to develop scalable, data-driven solutions.
 
 ### :coffee: Let's Collaborate!
-I'm always eager to connect with like-minded developers on fun and impactful projects. Feel free to check out my [portfolio](https://a-riveragonzalez.github.io/portfolio/) or drop me a message!
+I'm always eager to connect with like-minded developers on fun and impactful projects. Feel free to check out my [portfolio](https://www.arely.dev/) or drop me a message!
 
 ### Languages & Tools
 <p align="left"> 
